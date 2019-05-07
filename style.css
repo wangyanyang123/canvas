@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+  }
+  #xxx {
+    background: green;
+  }
+  div {
+    position: fixed;
+    left: 0;
+    top: 0;
+  }
